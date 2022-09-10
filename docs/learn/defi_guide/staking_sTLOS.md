@@ -15,17 +15,17 @@ In this guide we will stake TLOS for sTLOS(receipt token) on [Teloscan](http://t
 - Please stake several smaller positions and monitor behaviour
 - Unstake several smaller positions
 - wait some minutes and unstake further positions
-- Claim earlier positions when matured, all should be claimed excepted those that are not matured, yet
+- Claim earlier positions when matured, all should be claimed except those that are not matured, yet
 
 ### Why stake TLOS for sTLOS?
-- Staked sTLOS helps you put your staked TLOS to work in Defi and explore additional yield opportunities.
+- Staked TLOS helps you put your TLOS to work in Defi and explore additional yield opportunities.
 - Helps lock TVL on EVM enabling more attraction for investors and Dapps building on Telos. 
 
 >   Disclaimer: Having sTLOS on the tEVM does not allow you to vote in governance processes (including block producers and worker proposals) - these are limited to the native network. Stake on Native to participate in Defi. Stake on EVM for receipt token and more yield opportunties. It's simple ask yourself this question: why am I staking? What is my defi play(have a plan), as there is a 3-5 day locking period.
 
 ## Prerequisites
 
-You can easily create a new account on Metamask or utilize an existing tEVM account when staking to sTLOS. In case you have never used tEVM before with your Telos native account, following guide will assist you to get started using to create a tEVM account using the [TLOS_Webwallet](https://wallet.telos.net/). 
+You can easily create a new account on Metamask or utilize an existing tEVM account when staking to sTLOS. In case you have never used tEVM before with your Telos native account, the following guide will assist you to get started by creating a tEVM account using the [TLOS_Webwallet](https://wallet.telos.net/). 
 
 In order to stake TLOS on EVM following pre-requisites are required:
 
@@ -85,7 +85,7 @@ You will need tokens on our testnet, here is how you can acquire some for the te
 
 ![stake-tlos-metamask-tx](/img/stake-tlos-metamask-tx.png)
 -------        --                    ------ 
- > **Note: After staking your sTLOS, it will be locked up and earning rewards on a fixed interval of 30 minutes.**
+ > **Note: After staking your sTLOS, it will be locked up and earning rewards at a fixed interval of 30 minutes.**
  
 ### Unstake
 1. **Unstake**
@@ -105,7 +105,7 @@ You will need tokens on our testnet, here is how you can acquire some for the te
 
 **Claim your sTLOS rewards.**
 
-Note: All matured positions will be claimed in one transaction when claim has been clicked and confirmed.
+Note: All matured positions will be claimed in one transaction when the claim button is clicked and has been confirmed.
 
 1. **Select desired amount to claim**
 
