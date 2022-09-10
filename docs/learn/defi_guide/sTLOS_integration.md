@@ -17,7 +17,7 @@ The [StakedTLOS contract](https://github.com/telosnetwork/stlos/blob/dev/contrac
 - Users deposit their TLOS and get equivalent sTLOS tokens in return that represent their share of the total TLOS staked on the contract. 
 - Rewards are sent to the contract every 30 minutes by the native [exrsrv.tf contract](https://github.com/telosnetwork/telos-distribute/blob/stlos/src/eosio.tedp.cpp) which increase the TLOS price of sTLOS over time. 
 - Users can use their sTLOS tokens like any other ERC20 token.
-- On withdrawl from the contract, sTLOS shares are converted back to TLOS which is then deposited, under the user address, directly to the __TelosEscrow contract__ (see below). 
+- On withdrawal from the contract, sTLOS shares are converted back to TLOS which is then deposited, under the user address, directly to the __TelosEscrow contract__ (see below). 
 
 #### Main functions
 
